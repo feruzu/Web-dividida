@@ -62,7 +62,7 @@ h1 {
 
 .mueve.izq {
     left: 0;
-    background: url('Intel.jpg');
+    background: url('img/Intel.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -77,7 +77,7 @@ h1 {
 
 .mueve.der {
     right: 0;
-    background: url('Ryzer.jpg');
+    background: url('img/Ryzer.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
